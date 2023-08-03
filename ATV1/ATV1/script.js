@@ -8,10 +8,15 @@ function Parilidade(){
 }
 function Número(){
     var Número = getElementById("Número").value
+    var resto = Número % 2 = 0
 
-    var i
-    for (let i = 0; i < array.length; i++){
-        Número = Número + i + ","
 
-    }
-}
+
+
+    se numero % 2 = 0 então
+      escreva("O número é par!")
+   senão
+      escreva("O número é ímpar!")
+   fimse
+
+}               
