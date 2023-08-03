@@ -1,0 +1,14 @@
+h1{
+
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+
+
+}
+
+body{
+    text-align: center;
+    background-image: url("Horácio.jpg");
+    background-size: cover;
+}
