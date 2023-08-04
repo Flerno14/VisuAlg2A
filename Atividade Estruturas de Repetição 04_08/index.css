@@ -1,0 +1,16 @@
+#raiz{
+    text-align: center;
+    width: auto;
+    background-color: blueviolet;
+}
+input{
+    border-radius: 15px;
+    font-size: 20px;
+    width: 80px;
+    text-align: center;
+}
+button{
+    border-radius: 15px;
+    width: 180px;
+    font-size: large;
+}
