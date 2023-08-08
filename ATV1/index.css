@@ -1,0 +1,22 @@
+h1{                             
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    color: azure;
+}
+body{
+    text-align: center;
+    background-image: url("ff.png");
+    background-size: cover;
+}
+button{
+    border-radius: 15px;
+    width: 180px;
+    font-size: large;
+}
+input{
+    border-radius: 15px;
+    font-size: 20px;
+    width: 100px;
+    text-align: center;
+}
